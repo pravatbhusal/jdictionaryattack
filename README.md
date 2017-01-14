@@ -17,8 +17,8 @@ JDictionaryAttack utilizes two forms.
 ![Alt text](/rsrc/gui.PNG)
 
 # Setup
-Copy and paste the entire JDictionaryAttack's "com" folder into your project's "src" folder
-Copy and paste the entire JDictionaryAttack's wordlist.txt file in your project's main directory
+- Copy and paste the entire JDictionaryAttack's "com" folder into your project's "src" folder
+- Copy and paste the entire JDictionaryAttack's wordlist.txt file in your project's main directory
 
 # Documentation
 Import the DictionaryAttack class

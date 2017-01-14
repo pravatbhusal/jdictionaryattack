@@ -31,7 +31,7 @@ JDictionaryAttack utilizes two forms.
 # Documentation
 Import the DictionaryAttack class
 ```
-import com.shadowsych.attack.dictionaryattack
+import com.shadowsych.dictionaryattack.DictionaryAttack
 ```
 Make a DictionaryAttack instance
 ```

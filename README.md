@@ -5,6 +5,12 @@ Proper documentation is provided below the README.
 
 If you want to add more words to the DictionaryAttack, then you may add new words in the wordlist.txt file with each new word being another line.
 
+# Download Setup
+- Clone or download this repository as a zip file
+- Extract the downloaded zip file
+- Find and open the "JDictionaryAttack.jar" file inside the unzipped folder
+- Finished!
+
 # Dependencies
 JDictionaryAttack utilizes two forms.
 - The first form is an editable source code for programmers to code
@@ -16,9 +22,11 @@ JDictionaryAttack utilizes two forms.
 # Default GUI Overlook
 ![Alt text](/rsrc/gui.PNG)
 
-# Setup
+# Source Code Setup
 - Copy and paste the entire JDictionaryAttack's "com" folder into your project's "src" folder
-- Copy and paste the entire JDictionaryAttack's wordlist.txt file in your project's main directory
+- Copy and paste the entire JDictionaryAttack's "lib" folder in your project's main directory
+- Go to your IDE, go to the project's properties in the IDE, go to the Java Build Path, then go to the Libraries and add
+  all of the .jar files from the lib folder to your project.
 
 # Documentation
 Import the DictionaryAttack class

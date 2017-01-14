@@ -14,7 +14,7 @@ JDictionaryAttack utilizes two forms.
 	- The wordlist.txt file is neccessary to be in the same directory as when downloaded
 	
 # Default GUI Overlook
-![Alt text](/rsrc/gui.png)
+![Alt text](/rsrc/gui.PNG)
 
 # Setup
 Copy and paste the entire JDictionaryAttack's "com" folder into your project's "src" folder
